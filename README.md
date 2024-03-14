@@ -36,4 +36,4 @@ This is my repository to store assignments and self-study materials for the cour
 
 - [Core Java® Volume II—Advanced Features Tenth Edition](https://drive.google.com/drive/u/0/search?q=java)
 
-- [Lập trình mạng](https://onedrive.live.com/?authkey=%21AJhuDaOoQZmyJSI&id=77B0905B33E1F80D%21954030&cid=77B0905B33E1F80D)
+
