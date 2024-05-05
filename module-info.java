@@ -1,0 +1,3 @@
+module laptrinhmang.toithu7 {
+
+}

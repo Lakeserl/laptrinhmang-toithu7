@@ -1,3 +1,5 @@
+package Java_Core.Java_25.src;
+
 import java.util.Scanner;
 
 public class Main {

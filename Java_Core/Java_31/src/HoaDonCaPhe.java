@@ -1,3 +1,4 @@
+package Java_Core.Java_31.src;
 
 public class HoaDonCaPhe {
     private String tenLoaiCaPhe;

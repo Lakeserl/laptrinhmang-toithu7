@@ -1,3 +1,5 @@
+package Java_Core.Java_15.src;
+
 import org.w3c.dom.ls.LSOutput;
 
 import java.util.Scanner;

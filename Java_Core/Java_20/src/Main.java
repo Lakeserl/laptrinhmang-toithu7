@@ -1,3 +1,5 @@
+package Java_Core.Java_20.src;
+
 import java.util.Scanner;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
